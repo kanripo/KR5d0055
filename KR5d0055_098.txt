@@ -1,16 +1,15 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 雲笈七籤
-#+DATE: 2015-08-28 22:23:21
+#+DATE: 2015-08-28 23:02:45
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: LASTPB  <md:KR5d0055_WYG_106-15a>
 #+PROPERTY: JUAN 98
-<pb:KR5d0055_CK-KZ_12p108a>
+<pb:KR5d0055_YP-C_22jingji-05-0108a>
 之積十一¶<md:KR5d0055_WYG_106-15b>¶年遂乘雲駕龍白日升天上詣太微宮受書爲紫陽
 眞¶人佩黃旄之節八威之策帶流金之鈴服自然之衣食¶玉醴
 之𥹋飮金液之漿治葛衍山金庭銅城所謂紫陽¶宮也紫陽有
 八眞人君處其右一日三登崑崙一朝太¶微帝君以磻冢爲紫
 陽别宮所謂洞庭潛宮也磻冢山¶有洞穴潛行通王屋清虛小
 有天亦潛通閬風也¶
-
 　
