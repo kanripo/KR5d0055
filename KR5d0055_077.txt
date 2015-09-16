@@ -1,9 +1,31 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 雲笈七籤
-#+DATE: 2015-08-28 22:23:21
+#+TITLE: 雲笈七籖
+#+DATE: 2015-08-29 02:02:02
+#+PROPERTY:  LASTPB <PB KR5d0055_SJB_123-220844a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: LASTPB  <md:KR5d0055_WYG_050-18b>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5d0055_HFL_076-014b>
 #+PROPERTY: JUAN 77
+<md:KR5d0055_HFL_077-001a>¶<pb:KR5d0055_SJB_077-220542b>
+雲笈七籤卷之七十六¶¶¶¶¶¶¶¶¶¶<md:KR5d0055_HFL_077-001b>¶¶¶¶¶¶¶¶¶¶¶
 
-下
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
