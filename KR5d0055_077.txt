@@ -1,9 +1,32 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 雲笈七籤
-#+DATE: 2015-08-28 22:23:21
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 01:15:23.733908
+#+TITLE: 雲笈七籖
+#+PROPERTY: DZID  DZ1032
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，22—1 一百二十二卷 太玄部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: LASTPB  <md:KR5d0055_WYG_050-18b>
+#+PROPERTY: WITNESS HFL
+#+PROPERTY: LASTPB <pb:KR5d0055_SJB_077-220542a>
 #+PROPERTY: JUAN 77
-
-下
+#+PROPERTY: ID KR5d0055
+<pb:KR5d0055_HFL_077-001a>¶
+雲笈七籤卷之七十六¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+<pb:KR5d0055_HFL_077-001b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
